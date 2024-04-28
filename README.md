@@ -24,6 +24,7 @@ This project involves a detailed examination of Uber pick-up data across differe
 - <b>Seaborn</b> 
 - <b>Matplotlib</b>
 - <b>Plotly</b>
+- <b>Folium</b>
 
 
 <h2>Results</h2>

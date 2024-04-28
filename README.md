@@ -1,16 +1,21 @@
-<h1><a href="https://github.com/YelyzavetaBen/Project2/blob/main/Trial%20Stores.ipynb">Evaluation of Trial Store Performance and Strategic Recommendations for Chip Category Expansion</a></h1>
+<h1><a href="https://github.com/YelyzavetaBen/Project2/blob/main/Trial%20Stores.ipynb">Exploratory Data Analysis of Uber Dataset</a></h1>
 
 <h2>Goal</h2>
-The primary objective of this project is to evaluate the performance of trial store layouts and determine their effectiveness in boosting sales. This analysis will help the Category Manager for Chips to decide whether the new store layouts should be implemented across all stores
-<br />
+The primary goal of this project is to conduct a comprehensive exploratory data analysis (EDA) on Uber datasets to uncover patterns and insights related to pick-up activities. This analysis will facilitate a deeper understanding of demand dynamics, which is crucial for strategic planning and operational optimization at Uber.
+
 
 <h2>Description</h2>
-The project involves a detailed analysis of sales data from trial and control stores. Using customer transaction data and store performance metrics, I will assess the impact of the trial layouts on sales, customer engagement, and purchasing behaviour. The analysis will focus on comparing trial stores with carefully selected control stores to ascertain the effectiveness of the new layouts. Insights gained from this study will guide strategic decisions regarding the roll-out of successful layouts across the retail network.
-<br />
+This project involves a detailed examination of Uber pick-up data across different timescales—monthly, weekly, and hourly. By analyzing data from various New York City bases, the project aims to identify demand trends and their implications for Uber's service strategies. Key focus areas include assessing monthly demand fluctuations, weekday and hourly pick-up patterns, and the distribution of active vehicles across Uber bases. The insights derived will guide Uber in enhancing resource allocation, adjusting surge pricing, and improving overall customer satisfaction.
+
 
 <h2>Skills</h2>
-data cleaning and preprocessing, data analysis and visualization, statistical anlysis, control store selection, experimentation and uplift testing, hypothesis testing and formulation of actionable recommendations.
-<br />
+
+- Data cleaning and preprocessing to prepare Uber datasets for analysis.
+- Advanced data visualization to represent complex relationships in the data.
+- Statistical analysis to identify significant trends and anomalies.
+- Temporal data analysis for understanding patterns over different times of day and days of the week.
+- Geographic data analysis to pinpoint high-demand areas.
+- Hypothesis testing to validate observed patterns and their significance.
 
 <h2>Technology</h2>
 
@@ -18,11 +23,18 @@ data cleaning and preprocessing, data analysis and visualization, statistical an
 - <b>Pandas</b>
 - <b>Seaborn</b> 
 - <b>Matplotlib</b>
+- <b>Plotly</b>
+
 
 <h2>Results</h2>
-In the retail sector, strategic store layout plays a critical role in enhancing sales and customer experience. A recent analysis involving three trial stores (77, 86, and 88) compared against selected control stores (233, 155, and 237) highlighted the importance of layout optimization in a retail chain specializing in chips. The findings revealed that stores 77 and 88 experienced significant sales increases during the trial period, validating the effectiveness of the new layouts in these locations. In contrast, Store 86 showed no significant improvement, suggesting discrepancies in implementation or external influences
+The exploratory data analysis of the Uber dataset yielded significant insights into riding patterns and demand cycles in New York City, emphasizing the importance of strategic resource management:
 
-<br />
+- <b>Monthly Trends:</b> June was identified as the peak month for Uber pickups, likely due to seasonal activities and tourist influx, indicating the need for increased fleet availability during this period.
+- <b>Weekly and Daily Patterns:</b> Analysis revealed that Fridays and Saturdays consistently experience higher demand, especially during evening hours. This trend underscores the importance of strategically increasing fleet availability on these days to accommodate nightlife and recreational travel.
+- <b>Hourly Fluctuations:</b> There is a clear distinction in hourly demand between weekdays and weekends. Peak hours during weekdays are typically during morning and evening rush hours, while weekends show a spread in high demand across the evening. This necessitates different operational strategies for weekdays versus weekends.
+- <b>Geographic Insights:</b> Midtown Manhattan emerged as a critical hotspot for pickups, with significant activity extending to Lower and Upper Manhattan and parts of Brooklyn. These insights can guide targeted marketing and real-time dynamic pricing strategies.
+- <b>Fleet Distribution:</b> The base with the most active vehicles was identified, providing an opportunity to optimize vehicle deployment across less active but high-demand areas to balance supply and enhance service responsiveness.
+
 
 
 

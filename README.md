@@ -1,4 +1,4 @@
-<h1><a href="https://github.com/YelyzavetaBen/Project2/blob/main/Trial%20Stores.ipynb">Exploratory Data Analysis of Uber Dataset</a></h1>
+<h1><a href="https://github.com/YelyzavetaBen/Project3/blob/main/Uber%20Analysis.ipynb">Exploratory Data Analysis of Uber Dataset</a></h1>
 
 <h2>Goal</h2>
 The primary goal of this project is to conduct a comprehensive exploratory data analysis (EDA) on Uber datasets to uncover patterns and insights related to pick-up activities. This analysis will facilitate a deeper understanding of demand dynamics, which is crucial for strategic planning and operational optimization at Uber.
